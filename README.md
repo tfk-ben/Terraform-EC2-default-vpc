@@ -1,4 +1,4 @@
-<h1> Terraform Create EC2 instnace the default vpc </h1>>>>
+<h1> Terraform Create EC2 instnace the default vpc </h1>
 
 ### initialize
 
