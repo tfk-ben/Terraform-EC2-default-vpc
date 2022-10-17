@@ -1,5 +1,4 @@
-### Terraform-EC2-default-vpc
-
+# Terraform-EC2-default-vpc
     Create a EC2 instance with the default VPC .
 
 ### initialize
